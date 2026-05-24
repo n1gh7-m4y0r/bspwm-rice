@@ -1,0 +1,31 @@
+[global]
+font = Fira Sans Medium 9
+padding = 11
+frame_width = 0
+transparency = 0
+max_icon_size = 24
+separator_height = 0
+line_height = 0
+offset = 330x1
+corner_radius = 0
+horizontal_padding = 10
+width = 140
+height = 21
+origin = top-right
+ignore_newline = true
+max_notifications = 3
+
+[urgency_low]
+background = "#FFFFFF60"
+foreground = "#FFFFFF"
+timeout = 3
+
+[urgency_normal]
+background = "#00000060"
+foreground = "#FFFFFF"
+timeout = 3
+
+[urgency_critical]
+background = "#00000060"
+foreground = "#FF4444"
+timeout = 3

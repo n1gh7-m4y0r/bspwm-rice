@@ -1,0 +1,62 @@
+/* ROUNDED THEME FOR ROFI */
+/* Author: Newman Sanchez (https://github.com/newmanls) */
+
+* {
+    bg0:    #00000080;
+    bg1:    #00000095;
+    bg2:    #000000;
+    bg3:    #ffffff90;
+    fg0:    #D8DEE9;
+    fg1:    #ECEFF4;
+    fg2:    #ffffff90;
+    fg3:    #ffffff;
+}
+
+@import ".config/rofi/theme.rasi"
+
+
+
+element selected {
+    text-color: @bg1;
+}
+
+
+configuration {
+    show-icons:                     true;
+        icon-theme:                                     "Papirus";
+    display-drun:                                       "";
+    fullscreen:                     false;
+        hide-scrollbar:                                 true;
+        sidebar-mode:                                   true;
+}
+
+
+entry {
+  font              : "Roboto 12";
+  placeholder       : "";
+  placeholder-color : @fg1;
+}
+
+
+element-icon {
+  size: 40;
+}
+
+
+window {
+  location : east;
+  y-offset : -20px;
+  x-offset : -130px;
+}
+
+
+mainbox {
+  padding : 8px;
+  spacing : 0px;
+}
+
+
+listview {
+    lines:      6;
+    columns:    2;
+}

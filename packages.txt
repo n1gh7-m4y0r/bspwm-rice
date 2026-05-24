@@ -1,0 +1,75 @@
+#################################################
+#						#
+# 		 PACMAN PACKAGES		#
+#						#
+#################################################
+xorg pacman
+xorg-xinit pacman
+bspwm pacman
+sxhkd pacman
+rofi pacman
+polybar pacman
+alacritty pacman
+xdotool pacman
+brightnessctl pacman
+gvfs pacman
+gvfs-mtp pacman
+automake pacman
+make pacman
+cmake pacman
+autoconf pacman
+dunst pacman
+fakeroot pacman
+feh pacman
+firefox pacman
+thunar pacman
+gzip pacman
+zip pacman
+unrar pacman
+unzip pacman
+btop pacman
+copyq pacman 
+picom pacman
+pavucontrol pacman
+fastfetch pacman
+ttf-jetbrains-mono pacman
+ttf-jetbrains-mono-nerd pacman
+ttf-iosevka-nerd pacman
+sudo pacman
+ffmpeg pacman
+gcc pacman
+clang pacman
+wget pacman
+alsa-utils pacman
+alsa-plugins pacman
+pulseaudio pacman
+xclip pacman
+lxappearance pacman
+ncmpcpp pacman
+mpd pacman
+mpc pacman
+mpv pacman
+mpg123 pacman
+cava pacman
+flameshot pacman
+ttf-font-awesome pacman
+ttf-nerd-fonts-symbols-common pacman
+papirus-icon-theme pacman
+lsd pacman
+rofi-calc pacman
+pyenv pacman
+bc pacman
+xf86-video-intel pacman
+mesa pacman
+lib32-mesa pacman
+
+#################################################
+#                                               #
+#                AUR PACKAGES                   #
+#                                               #
+#################################################
+
+
+ttf-icomoon-feather-git yay
+tty-clock yay
+catppuccin-gtk-theme-macchiato
