@@ -51,4 +51,4 @@ This instruction is suitable for users who have basic command skills in the term
  - Video chip: Intel GMA 4500MHD
  - RAM: 8GB (used to have 4, but I added 4 more)
 
-And on such an old man, the system just flies, animations are smooth, applications launch quickly
+And on such an old laptop, the system just flies, animations are smooth, applications launch quickly
