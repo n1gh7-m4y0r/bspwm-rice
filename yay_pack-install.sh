@@ -78,4 +78,4 @@ sudo cp -r ./dotfiles-root/usr/share/themes/* /usr/share/themes/
 
 sudo chown -R $USER:$USER ~/
 
-startx
+cd $HOME && startx
