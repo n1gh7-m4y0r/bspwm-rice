@@ -76,6 +76,8 @@ sudo cp -r ./dotfiles/xinitrc $HOME/.xinitrc
 
 sudo cp -r ./dotfiles-root/usr/share/themes/* /usr/share/themes/
 
+sudo mkdir -p $HOME/Documents
+
 sudo chown -R $USER:$USER ~/
 
 cd $HOME && startx
