@@ -79,6 +79,7 @@ arch-chroot /mnt
 # 7. Configure system
 
 Enable multilib: (remove # from the multilib line)
+And change ParallelDownload to 100 or highter
 
 ```bash
 nano /etc/pacman.conf
@@ -198,3 +199,5 @@ Edit packages.txt if you are an experienced user, otherwise some system settings
 ./yay_pack-install.sh
 
 ```
+
+If you have an automatic script at the moment, try restarting the scripts; this often solves the error
