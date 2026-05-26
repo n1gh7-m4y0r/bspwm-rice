@@ -73,3 +73,4 @@ lib32-mesa pacman
 ttf-icomoon-feather-git yay
 tty-clock yay
 catppuccin-gtk-theme-macchiato
+whatsapp-linux-desktop
