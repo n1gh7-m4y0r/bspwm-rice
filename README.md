@@ -1,5 +1,5 @@
 #  bspwm-rice
-https://software.download.prss.microsoft.com/dbazure/Win10_22H2_EnglishInternational_x64v1.iso?t=6502bbd6-83d3-424d-a9e2-448774d2ff00&P1=1780403809&P2=602&P3=2&P4=T7CPm2ThdSw0Z%2f1CcfaqevjO%2fw7JPXFkdTOoxSdm%2fgaeJrvaV%2f%2fBR8LEv5FR0C%2fjUBdNunEVSVbrhlDddXA3gnXO82sl%2fhjXGRK58CawZrPJs67f%2fHhWF0hITAjvu7PDsXL6xQelLkzlHqdHOTMttr0GKJ%2fMsfMjLoYI%2bxygFrfJHG%2b96cK4rrgxSufEo5d6hruh4e5ROW%2fr9RlPjXsRZJry3aEmjSGhbWeO%2bNjZ4I89q9EbfEsq0l05THv%2fkOUwgxvsoXi%2bku1jEbjDrrH7GbTzjrhhypfQxwZ68u9Tpt6vlI8AUJ%2bTSZ6HuXxvEKVrAL8Uzwz3kkpm%2b%2fiHxHxC2Q%3d%3d
+
 Minimal and lightweight BSPWM setup for Arch Linux.
 
 > old hardware friendly • animations optimized
