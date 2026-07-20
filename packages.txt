@@ -9,7 +9,7 @@ bspwm pacman
 sxhkd pacman
 rofi pacman
 polybar pacman
-alacritty pacman
+ranger
 xdotool pacman
 brightnessctl pacman
 gvfs pacman
@@ -69,7 +69,7 @@ lib32-mesa pacman
 #                                               #
 #################################################
 
-
+alacritty-smooth-cursor-git
 ttf-icomoon-feather-git yay
 tty-clock yay
 catppuccin-gtk-theme-macchiato
