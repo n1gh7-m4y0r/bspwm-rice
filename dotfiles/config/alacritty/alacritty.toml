@@ -16,9 +16,6 @@ mode = "~Alt"
 action = "PasteSelection"
 mouse = "Middle"
 
-[cursor]
-style = "Beam"
-
 [font]
 size = 8.5
 
@@ -65,3 +62,28 @@ y = 5
 draw_bold_text_with_bright_colors = true
 
 [keyboard]
+
+
+[cursor]
+# Set to false to disable completely
+smooth_motion = true
+# 0.0 = cursor is not moving, 1.0 = cursor moves instantly
+smooth_motion_factor = 0.5
+# 0.0 = broken, 1.0 = cursor shape is unaffected by movement
+smooth_motion_spring = 0.5
+# Limits how the cursor size may change
+smooth_motion_max_stretch_x = 100.0
+smooth_motion_max_stretch_y = 100.0
+# Supposed to help with flickering in some TUIs, keep it low (`man alacritty.5`)
+smooth_motion_antijitter_ms = 0
+# Override "block" cursor if you don't like how it looks in this fork
+block_replace_shape = "underline"
+
+
+[seltools]
+# `false` by default, naturally
+enabled = true
+# `true` by default, enables JSON parsing (the only thing seltools can do for now)
+parse_json = true
+# Text-based UI width
+hint_width = 40
