@@ -9,7 +9,7 @@ bspwm pacman
 sxhkd pacman
 rofi pacman
 polybar pacman
-ranger
+ranger pacman 
 xdotool pacman
 brightnessctl pacman
 gvfs pacman
@@ -62,6 +62,7 @@ bc pacman
 xf86-video-intel pacman
 mesa pacman
 lib32-mesa pacman
+scrcpy pacman
 
 #################################################
 #                                               #
@@ -69,8 +70,9 @@ lib32-mesa pacman
 #                                               #
 #################################################
 
-alacritty-smooth-cursor-git
+aygram-desktop-bin yay
+alacritty-smooth-cursor-git yay
 ttf-icomoon-feather-git yay
 tty-clock yay
-catppuccin-gtk-theme-macchiato
-whatsapp-linux-desktop
+catppuccin-gtk-theme-macchiato yay
+whatsapp-linux-desktop yay
